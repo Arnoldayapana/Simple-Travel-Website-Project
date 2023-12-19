@@ -27,7 +27,7 @@
     margin-bottom: 150px;
 }
 .about-logo{
-    width: 190px;
+    width: 180px;
     height: 210px;
     flex:1;
     display: flex;
@@ -60,7 +60,7 @@
 }
 
 .about-logo img{
-    width: 250px;
+    width: 230px;
     height: 100px;
     margin-top:45px;
     margin-left: 85px;
@@ -76,7 +76,7 @@
 .member-container{
     max-width: 300px;
     margin: 30px auto;
-    perspective: 1000px;
+    perspective: 1100px;
 }
 
 .member-card{
@@ -85,7 +85,7 @@
     align-items: stretch;
     justify-content: stretch;
     position: relative;
-    transition: .6s linear;
+    transition: .3s linear;
     transform-style: preserve-3d;
 }
 
@@ -103,6 +103,7 @@
 
 .front{
     position: relative;
+    
 }
 
 .member1{
@@ -117,6 +118,11 @@
 .member4{
     background-image: url(..//IMAGES/renzo.png);
 }
+.member5{
+    background-image: url(..//IMAGES/arvin.png.png);
+}
+
+
 .back{
     background-color: #000;
     position: absolute;
