@@ -80,7 +80,7 @@
 
 
 .top-container{
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("../images/Background.png");
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("../IMAGES/Background.png");
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -96,7 +96,7 @@
 }
 
 .background h1{
-    font-size:55px;
+    font-size:60px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 1px;
 }
